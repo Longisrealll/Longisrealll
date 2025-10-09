@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning French and Java
 - 📫 How to reach me: my Email here
 - ⚡ Fun fact: I like hamster
-- Check out one of my favorite [traditional music track!!!](https://www.youtube.com/results?search_query=never+gonna+give+you+up)
+- Check out one of my favorite [traditional music track!!!]([https://www.youtube.com/results?search_query=never+gonna+give+you+up](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1))
+
+
 
 <!--
 **Longisrealll/Longisrealll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
