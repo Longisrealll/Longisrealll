@@ -1,6 +1,7 @@
 # 💫 About Me:
 ## Hi there 👋<br>- 🔭 I’m currently working on Chatbot project<br>- 🌱 I’m currently learning French and Java<br>- 📫 How to reach me: my Email here<br>- ⚡ Fun fact: I like hamster<br>- Check out one of my favorite [traditional music track!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)<br>
 
+I'm a Computer Studies student, my specialties is Full-stack development specifically on MERN stack. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trong-long-tran-4a749b319/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Maybe later) 
