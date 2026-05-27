@@ -1,6 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br>- 🔭 I’m currently working on Chatbot project<br>- 🌱 I’m currently learning French and Cpp<br>- 📫 How to reach me: my Email here<br>- Check out one of my favorite [traditional music track!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)<br>
-
+## Hi there 👋- 📫 How to reach me: my Email here
 I'm a Computer Studies student, my specialties is Full-stack development specifically on MERN stack. 
 
 ## 🌐 Socials:
